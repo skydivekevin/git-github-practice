@@ -10,22 +10,22 @@ Hello world!!!
 
 - Clone a Repository:
 ```
-
+$ git clone *url*   under url you actually enter the url of the repo you want to clone
 ```
 
 - Check Status:
 ```
-
+$ git status
 ```
 
 - Stage (Add):
 ```
-
+$ git add -A
 ```
 
 - Commit:
 ```
-
+$ git commit -m "commit message"
 ```
 
 ## Write Basic GitHub Commands Below
