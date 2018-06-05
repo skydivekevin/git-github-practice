@@ -32,10 +32,10 @@ $ git commit -m "commit message"
 
 - Push:
 ```
-
+$ git push origin mater
 ```
 
 - Check Remote:
 ```
-
+git remote -vasdfa
 ```
